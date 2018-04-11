@@ -13,24 +13,7 @@ namespace PayrollSystemV1_0__Beta.Controllers
         public ActionResult Index()
         {
             return View();
-<<<<<<< HEAD
-            int y;
-=======
-        }
-        // GET: /Home/Show
-        public ActionResult Show()
-        {
-            return View("Show", new DB());
         }
 
-        // GET: /Home/Set?first=x,last=y
-        public ActionResult Set(string first, string last)
-        {
-            DB.WriteDB(first, last);
-            ViewBag.First = first;
-            ViewBag.Last = last;
-            return View();
->>>>>>> 523ad01dd615a6857fec890c5dc5bc213579be02
-        }
     }
 }
