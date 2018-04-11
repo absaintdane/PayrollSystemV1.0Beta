@@ -12,10 +12,6 @@ namespace PayrollSystemV1_0__Beta.Controllers
         public ActionResult Index()
         {
             return View();
-<<<<<<< HEAD
-          
-=======
->>>>>>> d25dfa0724968cbaf6177dc6ffa77d0efcae5fb8
         }
         public ActionResult Show()
         {
@@ -26,6 +22,4 @@ namespace PayrollSystemV1_0__Beta.Controllers
             return View();
         }
     }
-
-}
 }
