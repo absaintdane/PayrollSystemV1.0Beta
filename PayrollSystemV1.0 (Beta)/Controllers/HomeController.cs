@@ -12,7 +12,6 @@ namespace PayrollSystemV1._0__Beta_.Controllers
         public ActionResult Index()
         {
             return View();
-            int x;
         }
     }
 }
