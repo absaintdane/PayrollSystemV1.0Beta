@@ -13,6 +13,7 @@ namespace PayRoll
         private string name;
         private int age;
         private Vehicle vehicle;
+        private int ID;
 
         // Methods
 
