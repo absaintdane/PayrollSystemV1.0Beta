@@ -13,9 +13,6 @@ namespace PayrollSystemV1_0__Beta.Controllers
         public ActionResult Index()
         {
             return View();
-<<<<<<< HEAD
-
-            Console.WriteLine("hello world");===
         }
 
     }
