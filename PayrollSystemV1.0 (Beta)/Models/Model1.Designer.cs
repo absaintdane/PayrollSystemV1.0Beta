@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Mikhail\Documents\GitHub\PayrollSystemV1.0Beta\PayrollSystemV1.0 (Beta)\Models\DBemployee.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Mikhail\Documents\GitHub\PayrollSystemV1.0Beta\PayrollSystemV1.0 (Beta)\Models\Model1.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

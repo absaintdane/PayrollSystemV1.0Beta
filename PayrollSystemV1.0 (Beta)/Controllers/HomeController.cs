@@ -1,4 +1,3 @@
-using PayrollSystemV1_0__Beta.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +12,7 @@ namespace PayrollSystemV1_0__Beta.Controllers
         public ActionResult Index()
         {
             return View();
-            marco was here
+          
         }
 
     }
