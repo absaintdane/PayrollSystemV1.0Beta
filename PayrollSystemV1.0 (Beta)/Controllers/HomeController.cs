@@ -14,6 +14,15 @@ namespace PayrollSystemV1_0__Beta.Controllers
         {
             return View();
         }
-
+        public ActionResult Show()
+        {
+            return View();
+        }
+        public ActionResult Set()
+        {
+            return View();
+        }
     }
+
+}
 }
