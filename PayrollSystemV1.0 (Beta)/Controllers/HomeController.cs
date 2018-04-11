@@ -14,7 +14,7 @@ namespace PayrollSystemV1_0__Beta.Controllers
         {
             return View();
 
-            change 2
+            Console.WriteLine("hello world");
         }
 
     }
