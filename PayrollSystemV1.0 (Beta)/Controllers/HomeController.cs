@@ -12,8 +12,8 @@ namespace PayrollSystemV1_0__Beta.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            ViewBag.Message = "This is the first greeting that we could have     ~Mohit";
             return View();
         }
-
     }
 }
