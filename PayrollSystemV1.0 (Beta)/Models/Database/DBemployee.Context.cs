@@ -13,10 +13,10 @@ namespace PayrollSystemV1._0__Beta_.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class MYdataBaseEntities : DbContext
+    public partial class MYdataBase : DbContext
     {
-        public MYdataBaseEntities()
-            : base("name=MYdataBaseEntities")
+        public MYdataBase()
+            : base("name=MYdataBase")
         {
         }
     
