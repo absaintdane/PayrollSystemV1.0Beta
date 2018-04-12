@@ -1,4 +1,3 @@
-using PayrollSystemV1_0__Beta.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +11,21 @@ namespace PayrollSystemV1_0__Beta.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            ViewBag.Message = "This is the first greeting that we could have     ~Mohit";
+            return View();
+<<<<<<< HEAD
+          
+=======
+>>>>>>> d25dfa0724968cbaf6177dc6ffa77d0efcae5fb8
+        }
+        public ActionResult Show()
+        {
+            return View();
+        }
+        public ActionResult Set()
+        {
             return View();
         }
     }
+
+}
 }
